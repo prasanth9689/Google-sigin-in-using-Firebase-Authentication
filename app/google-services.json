@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1067068556875",
+    "project_id": "skyblue-419106",
+    "storage_bucket": "skyblue-419106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067068556875:android:b24f530967871e203cefce",
+        "android_client_info": {
+          "package_name": "com.skyblue.skybluea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067068556875-1s6671hnlcsegmds0gm1hen5kjrvahcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skyblue.skybluea",
+            "certificate_hash": "81a1cc68e44fcd4b0fbccb63713793adae2e887c"
+          }
+        },
+        {
+          "client_id": "1067068556875-3opncvpsp6lges6fmaje4v0koitd90a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skyblue.skybluea",
+            "certificate_hash": "2e27428b628a3f69dc2558471e75d58b7e40ad14"
+          }
+        },
+        {
+          "client_id": "1067068556875-881q560kir10khbamb7gpcdp9evj6s6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skyblue.skybluea",
+            "certificate_hash": "d63962ddb75c280001fc24e3188ca409754f94da"
+          }
+        },
+        {
+          "client_id": "1067068556875-ojt9u704ob1s3eau6i5833iinkcd8hgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skyblue.skybluea",
+            "certificate_hash": "102c2cb84c2e879cfd39e236f80f8f37f2b06a8f"
+          }
+        },
+        {
+          "client_id": "1067068556875-sdkn6tqumr34kcr0qm6gbkavt08s3r0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5o5qfvY_lwzlO83lK-WPqjdEhvb56nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067068556875-jsui4v6s5efg2ll9vajhvohe4hif85j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
